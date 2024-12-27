@@ -1,4 +1,4 @@
-d="sithu123"
+d="praveen123"
 j="#"
 c="12322"
 k="thiygu"
@@ -9,7 +9,7 @@ z="DAVID"
 v="ASHU"
 s=" "
 o=(1,2,3)
-p="ashu  sitharth"
+p="ashu  praveen"
 print(d.isalnum())
 print(j.isalnum())
 print(c.isdigit())
